@@ -1,0 +1,11 @@
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\bin\Debug\netcoreapp2.0\SpaceJunkie.deps.json
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\bin\Debug\netcoreapp2.0\SpaceJunkie.runtimeconfig.json
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\bin\Debug\netcoreapp2.0\SpaceJunkie.runtimeconfig.dev.json
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\bin\Debug\netcoreapp2.0\SpaceJunkie.dll
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\bin\Debug\netcoreapp2.0\SpaceJunkie.pdb
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\obj\Debug\netcoreapp2.0\SpaceJunkie.csprojResolveAssemblyReference.cache
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\obj\Debug\netcoreapp2.0\SpaceJunkie.csproj.CoreCompileInputs.cache
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\obj\Debug\netcoreapp2.0\SpaceJunkie.AssemblyInfoInputs.cache
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\obj\Debug\netcoreapp2.0\SpaceJunkie.AssemblyInfo.cs
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\obj\Debug\netcoreapp2.0\SpaceJunkie.dll
+E:\Projects\SpaceJunkieWebApp\SpaceJunkie\obj\Debug\netcoreapp2.0\SpaceJunkie.pdb
